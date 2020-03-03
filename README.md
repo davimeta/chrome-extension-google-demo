@@ -27,7 +27,7 @@ popup.html
 popup.js
 ```
 
-## Page Redder
+## [Page Redder](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Page%20Redder.zip)
 
 Make the current page red
 
@@ -45,7 +45,7 @@ background.js
 manifest.json
 ```
 
-## Print this page
+## [Print this page](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Print%20this%20page.zip)
 
 Adds a print button to the browser.
 
@@ -64,7 +64,7 @@ manifest.json
 print_16x16.png
 ```
 
-## A browser action which changes its icon when clicked
+## [A browser action which changes its icon when clicked](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/A%20browser%20action%20which%20changes%20its%20icon%20when%20clicked.zip)
 
 Click browser action icon to change color!
 
@@ -90,7 +90,7 @@ icon5.png
 manifest.json
 ```
 
-## A browser action with a popup that changes the page color
+## [A browser action with a popup that changes the page color](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/A%20browser%20action%20with%20a%20popup%20that%20changes%20the%20page%20color.zip)
 
 Change the current page color
 
@@ -109,7 +109,7 @@ popup.html
 popup.js
 ```
 
-## BrowsingData API: Basics
+## [BrowsingData API: Basics](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/BrowsingData%20API:%20Basics.zip)
 
 A trivial usage example.
 
@@ -129,7 +129,7 @@ popup.html
 popup.js
 ```
 
-## Sample Extension Commands extension
+## [Sample Extension Commands extension](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Sample%20Extension%20Commands%20extension.zip)
 
 Press Ctrl+Shift+F to open the browser action popup, press Ctrl+Shift+Y to send an event.
 
@@ -147,7 +147,7 @@ browser_action.html
 manifest.json
 ```
 
-## Content settings
+## [Content settings](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Content%20settings.zip)
 
 Shows the content settings for the current site.
 
@@ -168,7 +168,7 @@ popup.html
 popup.js
 ```
 
-## Context Menus Sample
+## [Context Menus Sample](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Context%20Menus%20Sample.zip)
 
 Shows some of the features of the Context Menus API
 
@@ -186,7 +186,7 @@ manifest.json
 sample.js
 ```
 
-## Context Menus Sample (with Event Page)
+## [Context Menus Sample (with Event Page)](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Context%20Menus%20Sample%20\(with%20Event%20Page\).zip)
 
 Shows some of the features of the Context Menus API using an event page
 
@@ -206,7 +206,7 @@ manifest.json
 sample.js
 ```
 
-## Global Google Search
+## [Global Google Search](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Global%20Google%20Search.zip)
 
 Use the context menu to search a different country's Google
 
@@ -236,7 +236,7 @@ options.html
 options.js
 ```
 
-## Cookie API Test Extension
+## [Cookie API Test Extension](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Cookie%20API%20Test%20Extension.zip)
 
 Testing Cookie API
 
@@ -263,7 +263,7 @@ manager.js
 manifest.json
 ```
 
-## Live HTTP headers
+## [Live HTTP headers](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Live%20HTTP%20headers.zip)
 
 Displays the live log with the http requests headers
 
@@ -289,7 +289,7 @@ icon.png
 manifest.json
 ```
 
-## JavaScript pause/resume
+## [JavaScript pause/resume](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/JavaScript%20pause/resume.zip)
 
 Pauses / resumes JavaScript execution
 
@@ -317,7 +317,7 @@ debuggerPausing.png
 manifest.json
 ```
 
-## Tab Flipper
+## [Tab Flipper](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Tab%20Flipper.zip)
 
 Press Ctrl+Shift+Right or Ctrl+Shift+Left (Command+Shift+Right or Command+Shift+Left on a Mac) to flip through window tabs
 
@@ -340,7 +340,7 @@ images/tabFlipper32.png
 images/tabFlipper48.png
 ```
 
-## Desktop Capture Example
+## [Desktop Capture Example](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Desktop%20Capture%20Example.zip)
 
 Show desktop media picker UI
 
@@ -363,7 +363,7 @@ index.html
 manifest.json
 ```
 
-## My Devices
+## [My Devices](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/My%20Devices.zip)
 
 A browser action with a popup dump of all devices signed into the same account as the current profile.
 
@@ -383,7 +383,7 @@ popup.html
 popup.js
 ```
 
-## FirePHP for Chrome
+## [FirePHP for Chrome](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/FirePHP%20for%20Chrome.zip)
 
 Extends the Developer Tools, adding support for parsing FirePHP messages from server
 
@@ -406,7 +406,7 @@ devtools.js
 manifest.json
 ```
 
-## Chrome Query
+## [Chrome Query](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Chrome%20Query.zip)
 
 Extends the Developer Tools, adding a sidebar that displays the jQuery data associated with the selected DOM element.
 
@@ -425,7 +425,7 @@ devtools.js
 manifest.json
 ```
 
-## tabCast
+## [tabCast](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/tabCast.zip)
 
 Creates a WiFi Display Session from the captured tab media stream using chrome.displaySource API.
 
@@ -456,7 +456,7 @@ main.js
 manifest.json
 ```
 
-## Document Scanning API Sample
+## [Document Scanning API Sample](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Document%20Scanning%20API%20Sample.zip)
 
 CALLS:
 
@@ -478,7 +478,7 @@ scan.html
 scan.js
 ```
 
-## Download Filename Controller
+## [Download Filename Controller](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Download%20Filename%20Controller.zip)
 
 Download Filename Controller
 
@@ -497,7 +497,7 @@ options.html
 options.js
 ```
 
-## Download Selected Links
+## [Download Selected Links](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Download%20Selected%20Links.zip)
 
 Select links on a page and download them.
 
@@ -521,7 +521,7 @@ popup.js
 send_links.js
 ```
 
-## Download Manager Button
+## [Download Manager Button](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Download%20Manager%20Button.zip)
 
 Browser Action Download Manager User Interface for Google Chrome
 
@@ -569,7 +569,7 @@ popup.js
 _locales/en/messages.json
 ```
 
-## Download and Open Button
+## [Download and Open Button](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Download%20and%20Open%20Button.zip)
 
 Download and Open Context Menu Button
 
@@ -594,7 +594,7 @@ manifest.json
 _locales/en/messages.json
 ```
 
-## Downloads Overwrite Existing Files
+## [Downloads Overwrite Existing Files](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Downloads%20Overwrite%20Existing%20Files.zip)
 
 All downloads overwrite existing files instead of adding ' (1)', ' (2)', etc.
 
@@ -611,7 +611,7 @@ bg.js
 manifest.json
 ```
 
-## Event Page Example
+## [Event Page Example](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Event%20Page%20Example.zip)
 
 Demonstrates usage and features of the event page
 
@@ -645,7 +645,7 @@ icon.png
 manifest.json
 ```
 
-## `extension.isAllowedFileSchemeAccess` and `extension.isAllowedIncognitoAccess` Example
+## [`extension.isAllowedFileSchemeAccess` and `extension.isAllowedIncognitoAccess` Example](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/`extension.isAllowedFileSchemeAccess`%20and%20`extension.isAllowedIncognitoAccess`%20Example.zip)
 
 Demonstrates the `extension.isAllowedFileSchemeAccess` and `extesion.isAllowedIncognitoAccess` APIs
 
@@ -669,7 +669,7 @@ sample-48.png
 sample.css
 ```
 
-## Fake Archive Handler App
+## [Fake Archive Handler App](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Fake%20Archive%20Handler%20App.zip)
 
 Demonstrate File System Provider API usage for apps.
 
@@ -701,7 +701,7 @@ example2.fake
 manifest.json
 ```
 
-## File System Provider API Extension Example
+## [File System Provider API Extension Example](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/File%20System%20Provider%20API%20Extension%20Example.zip)
 
 Demonstrate features of the API like mounting, listing directories, etc for extensions.
 
@@ -727,7 +727,7 @@ background.js
 manifest.json
 ```
 
-## Advanced Font Settings
+## [Advanced Font Settings](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Advanced%20Font%20Settings.zip)
 
 Customize per-script font settings.
 
@@ -789,7 +789,7 @@ js/cr/ui.js
 js/cr/ui/overlay.js
 ```
 
-## History Override
+## [History Override](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/History%20Override.zip)
 
 Overrides the History Page
 
@@ -814,7 +814,7 @@ manifest.json
 style.css
 ```
 
-## Typed URL History
+## [Typed URL History](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Typed%20URL%20History.zip)
 
 Reads your history, and shows the top ten pages you go to by typing the URL.
 
@@ -835,7 +835,7 @@ typedUrls.html
 typedUrls.js
 ```
 
-## CLD
+## [CLD](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/CLD.zip)
 
 Displays the language of a tab
 
@@ -856,7 +856,7 @@ background.js
 manifest.json
 ```
 
-## Detect Language
+## [Detect Language](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Detect%20Language.zip)
 
 Detects up to 3 languages and their percentages of the provided string
 
@@ -875,7 +875,7 @@ popup.html
 popup.js
 ```
 
-## AcceptLanguage
+## [AcceptLanguage](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/AcceptLanguage.zip)
 
 Returns accept languages of the browser
 
@@ -898,7 +898,7 @@ _locales/es/messages.json
 _locales/sr/messages.json
 ```
 
-## Minimal Localized Hosted App
+## [Minimal Localized Hosted App](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Minimal%20Localized%20Hosted%20App.zip)
 
 This is the minimal set of data required to upload a localized hosted application to the web store.
 
@@ -916,7 +916,7 @@ _locales/en/messages.json
 _locales/de/messages.json
 ```
 
-## Idle - Simple Example
+## [Idle - Simple Example](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Idle%20-%20Simple%20Example.zip)
 
 Demonstrates the Idle API
 
@@ -942,7 +942,7 @@ sample-19.png
 sample-48.png
 ```
 
-## Test IME
+## [Test IME](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Test%20IME.zip)
 
 A simple IME that converts all keystrokes to upper case.
 
@@ -966,7 +966,7 @@ main.js
 manifest.json
 ```
 
-## Message Timer
+## [Message Timer](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Message%20Timer.zip)
 
 Times how long it takes to send a message to a content script and back.
 
@@ -990,7 +990,7 @@ popup.html
 popup.js
 ```
 
-## Native Messaging Example
+## [Native Messaging Example](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Native%20Messaging%20Example.zip)
 Send a message to a native application.
 
 CALLS:
@@ -1010,7 +1010,7 @@ manifest.json
 # Demo by Google
 ```
 
-## Notification Demo
+## [Notification Demo](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Notification%20Demo.zip)
 
 Shows off desktop notifications, which are "toast" windows that pop up on the desktop.
 
@@ -1033,7 +1033,7 @@ options.js
 style.css
 ```
 
-## Omnibox New Tab Search
+## [Omnibox New Tab Search](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Omnibox%20New%20Tab%20Search.zip)
 
 Type 'nt' plus a search term into the Omnibox to open search in new tab.
 
@@ -1055,7 +1055,7 @@ newtab_search32.png
 newtab_search48.png
 ```
 
-## Omnibox Example
+## [Omnibox Example](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Omnibox%20Example.zip)
 
 To use, type 'omnix' plus a search term into the Omnibox.
 
@@ -1073,7 +1073,7 @@ background.js
 manifest.json
 ```
 
-## Blank new tab page
+## [Blank new tab page](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Blank%20new%20tab%20page.zip)
 
 Override the new tab page with a blank one
 
@@ -1089,7 +1089,7 @@ blank.html
 manifest.json
 ```
 
-## iGoogle new tab page
+## [iGoogle new tab page](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/iGoogle%20new%20tab%20page.zip)
 
 Override the new tab page with iGoogle
 
@@ -1105,7 +1105,7 @@ manifest.json
 redirect.html
 ```
 
-## Page action by content
+## [Page action by content](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Page%20action%20by%20content.zip)
 
 Shows a page action for HTML pages containing a video
 
@@ -1127,7 +1127,7 @@ video-19.png
 video-48.png
 ```
 
-## Page action by URL
+## [Page action by URL](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Page%20action%20by%20URL.zip)
 
 Shows a page action for urls which have the letter 'g' in them.
 
@@ -1149,7 +1149,7 @@ icon-48.png
 manifest.json
 ```
 
-## Animated Page Action
+## [Animated Page Action](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Animated%20Page%20Action.zip)
 
 This extension adds an animated browser action to the toolbar.
 
@@ -1175,7 +1175,7 @@ icon2.png
 manifest.json
 ```
 
-## Top Chrome Extension Questions
+## [Top Chrome Extension Questions](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Top%20Chrome%20Extension%20Questions.zip)
 
 Sample demonstration of the optional permissions API.
 
@@ -1201,7 +1201,7 @@ popup.js
 images/icon.png
 ```
 
-## Keep Awake
+## [Keep Awake](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Keep%20Awake.zip)
 
 Override system power-saving settings.
 
@@ -1237,7 +1237,7 @@ images/sunset-38.png
 _locales/en/messages.json
 ```
 
-## Block/allow third-party cookies API example extension
+## [Block/allow third-party cookies API example extension](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Block/allow%20third-party%20cookies%20API%20example%20extension.zip)
 
 Sample extension which demonstrates how to access a preference.
 
@@ -1257,7 +1257,7 @@ popup.html
 popup.js
 ```
 
-## Block/allow referrer API example extension
+## [Block/allow referrer API example extension](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Block/allow%20referrer%20API%20example%20extension.zip)
 
 Sample extension which demonstrates how to access a preference.
 
@@ -1277,7 +1277,7 @@ popup.html
 popup.js
 ```
 
-## Print Extension
+## [Print Extension](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Print%20Extension.zip)
 
 Sends print job directly to the printers installed on the Chromebook
 
@@ -1304,7 +1304,7 @@ icons/icon16.png
 icons/icon48.png
 ```
 
-## Print Job History
+## [Print Job History](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Print%20Job%20History.zip)
 
 Reads your print history and displays the recent print jobs.
 
@@ -1329,7 +1329,7 @@ print_jobs.html
 print_jobs.js
 ```
 
-## Process Monitor
+## [Process Monitor](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Process%20Monitor.zip)
 
 Adds a browser action that monitors resource usage of all browser processes.
 
@@ -1349,7 +1349,7 @@ popup.html
 popup.js
 ```
 
-## Show Tabs in Process
+## [Show Tabs in Process](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Show%20Tabs%20in%20Process.zip)
 
 Adds a browser action showing which tabs share the current tab's process.
 
@@ -1374,7 +1374,7 @@ popup.html
 popup.js
 ```
 
-## Stylizr
+## [Stylizr](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Stylizr.zip)
 
 Spruce up your pages with custom CSS.
 
@@ -1402,7 +1402,7 @@ popup.html
 popup.js
 ```
 
-## Tab Capture Example
+## [Tab Capture Example](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Tab%20Capture%20Example.zip)
 
 Capture a tab and play in a 
 
@@ -1450,7 +1450,7 @@ tabs_api.html
 tabs_api.js
 ```
 
-## Keyboard Pin
+## [Keyboard Pin](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Keyboard%20Pin.zip)
 
 Creates a keyboard shortcut (Alt + Shift + P) to toggle the pinned state of the currently selected tab
 
@@ -1470,7 +1470,7 @@ background.js
 manifest.json
 ```
 
-## Test Screenshot Extension
+## [Test Screenshot Extension](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Test%20Screenshot%20Extension.zip)
 
 Demonstrate screenshot functionality in the chrome.tabs api.
 
@@ -1496,7 +1496,7 @@ screenshot.js
 white.png
 ```
 
-## Tabs Zoom API Demo
+## [Tabs Zoom API Demo](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Tabs%20Zoom%20API%20Demo.zip)
 
 This extension allows the user to explore features of the new tabs zoom api.
 
@@ -1525,7 +1525,7 @@ zoom19.png
 zoom48.png
 ```
 
-## Top Sites
+## [Top Sites](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Top%20Sites.zip)
 
 Shows the top sites in a browser action
 
@@ -1545,7 +1545,7 @@ popup.html
 popup.js
 ```
 
-## NTP prototyping extension
+## [NTP prototyping extension](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/NTP%20prototyping%20extension.zip)
 
 extension to prototype new NTP designs
 
@@ -1564,7 +1564,7 @@ newTab.html
 newTab.js
 ```
 
-## Console TTS Engine
+## [Console TTS Engine](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Console%20TTS%20Engine.zip)
 
 A "silent" TTS engine that prints text to a small window rather than synthesizing speech.
 
@@ -1587,7 +1587,7 @@ console_tts_engine.js
 manifest.json
 ```
 
-## Drink Water Event Popup
+## [Drink Water Event Popup](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Drink%20Water%20Event%20Popup.zip)
 
 Demonstrates usage and features of the event page by reminding user to drink water
 
@@ -1618,7 +1618,7 @@ popup.js
 stay_hydrated.png
 ```
 
-## WebNavigation Tech Demo
+## [WebNavigation Tech Demo](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/WebNavigation%20Tech%20Demo.zip)
 
 Demonstration of the WebNavigation extension API.
 
@@ -1653,7 +1653,7 @@ popup.js
 _locales/en/messages.json
 ```
 
-## Webview transparency
+## [Webview transparency](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Webview%20transparency.zip)
 
 Sample of the webview.captureVisibleRegion api
 
@@ -1673,7 +1673,7 @@ test.js
 test2.html
 ```
 
-## WebView Extension Communications Demo: App
+## [WebView Extension Communications Demo: App](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/WebView%20Extension%20Communications%20Demo:%20App.zip)
 
 
 CALLS:
@@ -1691,7 +1691,7 @@ manifest.json
 test.html
 ```
 
-## WebView Extension Communications Demo: Extension
+## [WebView Extension Communications Demo: Extension](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/WebView%20Extension%20Communications%20Demo:%20Extension.zip)
 
 Provides content scripts to an app hosting a WebView.
 
@@ -1709,7 +1709,7 @@ background.js
 manifest.json
 ```
 
-## Merge Windows
+## [Merge Windows](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Merge%20Windows.zip)
 
 Merges all of the browser's windows into the current window
 
@@ -1734,7 +1734,7 @@ merge_windows_128.png
 merge_windows_48.png
 ```
 
-## Simple Background App
+## [Simple Background App](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Simple%20Background%20App.zip)
 
 
 CALLS:
@@ -1752,7 +1752,7 @@ index.js
 manifest.json
 ```
 
-## Calculator
+## [Calculator](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Calculator.zip)
 
 A simple calculator.
 
@@ -1777,7 +1777,7 @@ images/icon-128x128.png
 images/icon-16x16.png
 ```
 
-## App Launcher
+## [App Launcher](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/App%20Launcher.zip)
 
 Get access to your apps in a browser action
 
@@ -1801,7 +1801,7 @@ popup.html
 popup.js
 ```
 
-## Chromium Buildbot Monitor
+## [Chromium Buildbot Monitor](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Chromium%20Buildbot%20Monitor.zip)
 
 Displays the status of the Chromium buildbot in the toolbar. Click to see more detailed status in a popup.
 
@@ -1836,7 +1836,7 @@ try_status.js
 utils.js
 ```
 
-## Google Calendar Checker (by Google)
+## [Google Calendar Checker (by Google)](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Google%20Calendar%20Checker%20\(by%20Google\).zip)
 
 Quickly see the time until your next meeting from any of your calendars. Click on the button to be taken to your calendar.
 
@@ -1914,7 +1914,7 @@ _locales/tr/messages.json
 _locales/zh_CN/messages.json
 ```
 
-## CatBlock
+## [CatBlock](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/CatBlock.zip)
 
 I can't has cheezburger!
 
@@ -1932,7 +1932,7 @@ loldogs.js
 manifest.json
 ```
 
-## Catifier
+## [Catifier](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Catifier.zip)
 
 Moar cats!
 
@@ -1953,7 +1953,7 @@ event_page.js
 manifest.json
 ```
 
-## Chromium Search
+## [Chromium Search](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Chromium%20Search.zip)
 
 Add support to the omnibox to search the Chromium source code.
 
@@ -1976,7 +1976,7 @@ background.js
 manifest.json
 ```
 
-## Constant Context
+## [Constant Context](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Constant%20Context.zip)
 
 Highlights elements with keywords on developer.chrome
 
@@ -2006,7 +2006,7 @@ images/cc32.png
 images/cc48.png
 ```
 
-## Download Images
+## [Download Images](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Download%20Images.zip)
 
 Displays all webpage images and allows user to download
 
@@ -2039,7 +2039,7 @@ images/download_image32.png
 images/download_image48.png
 ```
 
-## Email this page (by Google)
+## [Email this page (by Google)](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Email%20this%20page%20\(by%20Google\).zip)
 
 This extension adds an email button to the toolbar which allows you to email the page link using your default mail client or Gmail.
 
@@ -2066,7 +2066,7 @@ options.html
 options.js
 ```
 
-## Chrome Sounds
+## [Chrome Sounds](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Chrome%20Sounds.zip)
 
 Enjoy a more magical and immersive experience when browsing the web using the power of sound.
 
@@ -2103,7 +2103,7 @@ options.html
 options.js
 ```
 
-## Google Document List Viewer
+## [Google Document List Viewer](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Google%20Document%20List%20Viewer.zip)
 
 Demonstrates how to use OAuth to connect the Google Documents List Data API.
 
@@ -2143,7 +2143,7 @@ img/icons/presentation.gif
 img/icons/spreadsheet.gif
 ```
 
-## Google Mail Checker
+## [Google Mail Checker](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Google%20Mail%20Checker.zip)
 
 Displays the number of unread messages in your Google Mail inbox. You can also click the button to open your inbox.
 
@@ -2225,7 +2225,7 @@ _locales/lt/messages.json
 _locales/de/messages.json
 ```
 
-## Imageinfo
+## [Imageinfo](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Imageinfo.zip)
 
 Get image info for images, including EXIF data
 
@@ -2269,7 +2269,7 @@ SOURCE FILES:
 manifest.json
 ```
 
-## Managed Bookmarks
+## [Managed Bookmarks](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Managed%20Bookmarks.zip)
 
 Adds bookmarks configured by your system administrator to Chrome.
 
@@ -2301,7 +2301,7 @@ schema.json
 _locales/en/messages.json
 ```
 
-## Mappy
+## [Mappy](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Mappy.zip)
 
 Finds addresses in the web page you're on and pops up a map window.
 
@@ -2343,7 +2343,7 @@ SOURCE FILES:
 manifest.json
 ```
 
-## News Reader (by Google)
+## [News Reader (by Google)](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/News%20Reader%20\(by%20Google\).zip)
 
 Displays the latest stories from Google News in a popup.
 
@@ -2378,7 +2378,7 @@ views/options.html
 _locales/en/messages.json
 ```
 
-## News Reader
+## [News Reader](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/News%20Reader.zip)
 
 Displays the first 5 items from the 'Google News - top news' RSS feed in a popup.
 
@@ -2402,7 +2402,7 @@ news_icon.png
 sprite_arrows.gif
 ```
 
-## News Reader
+## [News Reader](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/News%20Reader.zip)
 
 Displays the first 5 items from the '$Google$ News - top news' RSS feed in a popup.
 
@@ -2424,7 +2424,7 @@ _locales/es/messages.json
 _locales/en/messages.json
 ```
 
-## No Cookies
+## [No Cookies](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/No%20Cookies.zip)
 
 Removes 'Cookie' and 'Set-Cookie' headers.
 
@@ -2442,7 +2442,7 @@ background.js
 manifest.json
 ```
 
-## Sample - OAuth Contacts
+## [Sample - OAuth Contacts](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Sample%20-%20OAuth%20Contacts.zip)
 
 Uses OAuth to connect to Google's contacts service and display a list of your contacts.
 
@@ -2478,7 +2478,7 @@ img/icon-19-on.png
 img/icon-48.png
 ```
 
-## Optional Permissions New Tab
+## [Optional Permissions New Tab](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Optional%20Permissions%20New%20Tab.zip)
 
 Demonstrates optional permissions in extensions
 
@@ -2505,7 +2505,7 @@ images/optional_permissions32.png
 images/optional_permissions48.png
 ```
 
-## Per-plugin content settings
+## [Per-plugin content settings](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Per-plugin%20content%20settings.zip)
 
 Customize your content setting for different plugins.
 
@@ -2561,7 +2561,7 @@ domui/js/cr/ui/list_selection_model.js
 domui/js/cr/ui/list_single_selection_model.js
 ```
 
-## Proxy Extension API Sample
+## [Proxy Extension API Sample](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Proxy%20Extension%20API%20Sample.zip)
 
 Set Chrome-specific proxies; a demonstration of Chrome's Proxy API
 
@@ -2600,7 +2600,7 @@ test/unittest.css
 _locales/en/messages.json
 ```
 
-## Speak Selection
+## [Speak Selection](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Speak%20Selection.zip)
 
 Speaks the current selection out loud.
 
@@ -2639,7 +2639,7 @@ options.js
 tabs.js
 ```
 
-## Talking Alarm Clock
+## [Talking Alarm Clock](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Talking%20Alarm%20Clock.zip)
 
 A clock with two configurable alarms that will play a sound and speak a phrase of your choice.
 
@@ -2681,7 +2681,7 @@ audio/ringing.ogg
 audio/rooster.ogg
 ```
 
-## TTS Debug
+## [TTS Debug](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/TTS%20Debug.zip)
 
 Tool for developers of Chrome TTS engine extensions to help them test their engines are implementing the API correctly.
 
@@ -2706,7 +2706,7 @@ ttsdebug.html
 ttsdebug.js
 ```
 
-## TTS Demo
+## [TTS Demo](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/TTS%20Demo.zip)
 
 Demo Chrome's synthesized text-to-speech capabilities.
 
@@ -2731,7 +2731,7 @@ ttsdemo.html
 ttsdemo.js
 ```
 
-## Sandboxed Frame
+## [Sandboxed Frame](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Sandboxed%20Frame.zip)
 
 Demonstrate use of handlebars inside a sandboxed frame
 
@@ -2753,7 +2753,7 @@ manifest.json
 sandbox.html
 ```
 
-## Tab Shortcuts
+## [Tab Shortcuts](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Tab%20Shortcuts.zip)
 
 Allows pinning and duplication of tabs via keyboard shortcuts.
 
@@ -2772,7 +2772,7 @@ manifest.json
 tab_shortcuts.js
 ```
 
-## Event Tracking with Google Analytics
+## [Event Tracking with Google Analytics](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Event%20Tracking%20with%20Google%20Analytics.zip)
 
 A sample extension which uses Google Analytics to track usage.
 
@@ -2792,7 +2792,7 @@ popup.html
 popup.js
 ```
 
-## Broken Background Color
+## [Broken Background Color](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Broken%20Background%20Color.zip)
 
 Fix an Extension!
 
@@ -2821,7 +2821,7 @@ images/get_started32.png
 images/get_started48.png
 ```
 
-## Getting Started Example
+## [Getting Started Example](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Getting%20Started%20Example.zip)
 
 Build an Extension!
 
@@ -2849,7 +2849,7 @@ images/get_started32.png
 images/get_started48.png
 ```
 
-## Getting Started Example
+## [Getting Started Example](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Getting%20Started%20Example.zip)
 
 Build an Extension!
 
@@ -2880,7 +2880,7 @@ images/get_started32.png
 images/get_started48.png
 ```
 
-## Getting started example
+## [Getting started example](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Getting%20started%20example.zip)
 
 This extension allows the user to change the background color of the current page.
 
@@ -2905,7 +2905,7 @@ popup.html
 popup.js
 ```
 
-## Hello Extensions
+## [Hello Extensions](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Hello%20Extensions.zip)
 
 Base Level Extension
 
@@ -2922,7 +2922,7 @@ hello_extensions.png
 manifest.json
 ```
 
-## OAuth Tutorial FriendBlock(1)
+## [OAuth Tutorial FriendBlock(1)](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/OAuth%20Tutorial%20FriendBlock\(1\).zip)
 
 Uses OAuth to connect to Google's People API and display contacts photos.
 
@@ -2946,7 +2946,7 @@ oauth.js
 ```
 ```
 
-## OAuth Tutorial FriendBlock(2)
+## [OAuth Tutorial FriendBlock(2)](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/OAuth%20Tutorial%20FriendBlock\(2\).zip)
 
 Uses OAuth to connect to Google's People API and display contacts photos.
 
