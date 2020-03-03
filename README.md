@@ -4,7 +4,7 @@ google官网[chrome.com](https://developer.chrome.com/extensions/samples)提供�
 
 更新同步日期:2020-03-03
 
-## My Bookmarks
+## [My Bookmarks](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/My%20Bookmarks.zip)
 
 A browser action with a popup dump of all bookmarks, including search, add, edit and delete.
 
