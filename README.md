@@ -991,6 +991,7 @@ popup.js
 ```
 
 ## [Native Messaging Example](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Native%20Messaging%20Example.zip)
+
 Send a message to a native application.
 
 CALLS:
@@ -1402,11 +1403,10 @@ popup.html
 popup.js
 ```
 
-## [Tab Capture Example](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Tab%20Capture%20Example.zip)
+Tab Capture Example
 
-Capture a tab and play in a 
+## [Tab Inspector](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Tab%20Inspector.zip)
 
-Tab Inspector
 Utility for working with the extension tabs api
 
 CALLS:
@@ -1675,7 +1675,6 @@ test2.html
 
 ## [WebView Extension Communications Demo: App](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/WebView%20Extension%20Communications%20Demo:%20App.zip)
 
-
 CALLS:
 
 ``` list
@@ -1735,7 +1734,6 @@ merge_windows_48.png
 ```
 
 ## [Simple Background App](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Simple%20Background%20App.zip)
-
 
 CALLS:
 
@@ -2402,7 +2400,7 @@ news_icon.png
 sprite_arrows.gif
 ```
 
-## [News Reader](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/News%20Reader.zip)
+## [News Reader(1)](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/News%20Reader\(1\).zip)
 
 Displays the first 5 items from the '$Google$ News - top news' RSS feed in a popup.
 
@@ -2849,7 +2847,7 @@ images/get_started32.png
 images/get_started48.png
 ```
 
-## [Getting Started Example](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Getting%20Started%20Example.zip)
+## [Getting Started Example(1)](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Getting%20Started%20Example\(1\).zip)
 
 Build an Extension!
 
@@ -2880,7 +2878,7 @@ images/get_started32.png
 images/get_started48.png
 ```
 
-## [Getting started example](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Getting%20started%20example.zip)
+## [Getting started example(2)](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/Getting%20started%20example\(2\).zip)
 
 This extension allows the user to change the background color of the current page.
 
@@ -2943,7 +2941,6 @@ background.js
 index.html
 manifest.json
 oauth.js
-```
 ```
 
 ## [OAuth Tutorial FriendBlock(2)](https://github.com/emanruoy/chrome-extension-google-demo/raw/master/OAuth%20Tutorial%20FriendBlock\(2\).zip)
